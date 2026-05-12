@@ -142,7 +142,7 @@ npm install
 npm start
 ```
 
-> App runs at **http://localhost:3000** 🚀
+> App runs at https://app.powerbi.com/reportEmbed?reportId=ea967208-9239-466a-ad34-f824ce874a49&autoAuth=true&ctid=b5f86f36-3df0-46d1-beb7-50fa19e96f79 🚀
 
 ---
 
