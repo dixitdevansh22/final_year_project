@@ -16,8 +16,8 @@ Navigation is enabled via **buttons**, providing a smooth multi-page report expe
 
 ## 🖼️ Dashboard Snapshots
 
-### 📊 Main Dashboard (Eternal Overview)  
-![Main Dashboard](https://github.com/dixitdevansh22/final_year_project/blob/main/Nexora.pngs)
+### 📊 Main Dashboard (Nexora Overview)  
+![Main Dashboard](https://github.com/dixitdevansh22/final_year_project/blob/main/Nexora.png)
 
 ### 🍽️ Zomato View  
 ![Zomato Dashboard](https://github.com/dixitdevansh22/final_year_project/blob/main/Zomato-logo.png)
